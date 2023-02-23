@@ -1,1 +1,21 @@
+Bug report
 
+Project name:
+ID:
+Summary:
+Category:
+Priority:
+Severity:
+Status:
+Assigned to:
+Tester:
+Enviroment:
+Platform:
+Reproducibility:
+Preconditions:
+Steps:
+Actual results:
+Expected results:
+Workaround:
+Comments:
+Attachments:
