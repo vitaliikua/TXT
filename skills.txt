@@ -1,0 +1,19 @@
+The Skills I'll achieve at this course:
+
+Skill 1: Testing documentation: check-list, test-case, bug report
+Skill 2: Mobile testing
+Skill 3: Terminal
+Skill 4: Git
+Skill 5: Client-server architecture
+Skill 6: HTTP methods
+Skill 7: API testing
+Skill 8: DevTolls
+Skill 9: Logs
+Skill 10: Charles, Fiddler
+Skill 11: SQL
+Skill 12: Jmeter
+Skill 13: SCRUM, Kanban
+Skill 14: Python
+Skill 15: CV creating
+Skill 16: Interview passing
+Skill 17: commercial practice
